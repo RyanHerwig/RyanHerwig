@@ -1,5 +1,6 @@
 ## Hello! I'm Ryan Herwig 👋
 I am a Junior at Bradley University with a major in Computer Science and a minor in Game Design
+
 Link To My Page: [Page](https://ryanherwig.github.io/) (WIP)
 <!--
 **RyanHerwig/RyanHerwig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
